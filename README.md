@@ -28,3 +28,5 @@ python main.py
 `main.py`: 主程式
 `keras_model.h5`: 訓練好的手語辨識模型
 `labels.txt`: 模型對應的標籤類別
+
+成果圖.png
