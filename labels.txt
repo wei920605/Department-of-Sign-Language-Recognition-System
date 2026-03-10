@@ -1,0 +1,10 @@
+0 rain
+1 wrong
+2 angry
+3 sick
+4 scard
+5 end
+6 speak
+7 please
+8 color
+9 what
