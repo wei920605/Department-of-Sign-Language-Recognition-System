@@ -25,6 +25,6 @@ python main.py
       
 再來跑這段`change.py`: (資料擴增:水平翻轉（Horizontal Flip)、旋轉（Rotate）、色彩抖動（Color Jitter）)
  
-`untitled8.py`: 主程式
+`main.py`: 主程式
 `keras_model.h5`: 訓練好的手語辨識模型
 `labels.txt`: 模型對應的標籤類別
