@@ -1,4 +1,21 @@
 # Department-of-Sign-Language-Recognition-System
+
+A real-time sign language recognition system using Python, OpenCV and MediaPipe.
+
+## Features
+- Real-time hand detection
+- Sign language recognition
+- Text and speech output
+
+## Tech Stack
+- Python
+- OpenCV
+- MediaPipe
+- TensorFlow
+
+## How to run
+pip install -r requirements.txt
+python main.py
 檔案說明
 需先錄製一段影片放入檔案中
 再跑這段程式碼`back.py`: (影片去背且以每秒提取 5 幀的邏輯穩定執行)
